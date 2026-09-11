@@ -241,4 +241,4 @@ This repository serves as the official landing page for Sweet Home 3D. The softw
 **Get the most recent version of Sweet Home 3D today!**
 
 ---
-**Last updated:** 2026-09-11 10:16:26 UTC
+**Last updated:** 2026-09-11 14:43:33 UTC
